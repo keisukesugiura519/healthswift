@@ -1,1 +1,4 @@
 # healthswift
+
+gitを使って練習してみたいだけ
+目標：healthkitを使ってiphone上で心拍数のリアルタイム取得
